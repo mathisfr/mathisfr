@@ -11,7 +11,7 @@
     <a href="https://"><img src="https://img.shields.io/badge/Html-fe7d37?logo=HTML5&logoColor=fff" alt="Html"></a>
   </li>
   <li>
-    <a href="https://"><img src="https://img.shields.io/badge/Css-fe7d37?logo=CSS&logoColor=fff" alt="Css"></a>
+    <a href="https://"><img src="https://img.shields.io/badge/Css-fe7d37?logo=CSS3&logoColor=fff" alt="Css"></a>
   </li>
   <li>
     <a href="https://"><img src="https://img.shields.io/badge/Php-fe7d37?logo=PHP&logoColor=fff" alt="Php"></a>

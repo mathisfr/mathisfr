@@ -1,1 +1,1 @@
-![BANNER!](Profile_Banner.gif)
+![BANNER](Profile_Banner.gif)

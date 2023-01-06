@@ -1,12 +1,12 @@
 <p align="center">
 <img src="Profile_Banner.gif" alt="hi" class="inline"/>
 </p>
-<h3 align="center">
-Hi there, I'm <a href="https://github.com/mathisfr" target="_blank" rel="noreferrer">Mathis</a> 👋
-</h3>
 <h2 align="center">
+Hi there, I'm <a href="https://github.com/mathisfr" target="_blank" rel="noreferrer">Mathis</a> 👋
+</h2>
+<h3 align="center">
 I am a computer development student 💻, and I also like digital design 🎨! (Blender, photoshop and other...)
-</h2> 
+</h3> 
 <p>Compétences</p>
 <ul>
   <li>

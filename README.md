@@ -1,9 +1,9 @@
 <p align="center">
 <img src="Profile_Banner.gif" alt="hi" class="inline"/>
 </p>
-<h2 align="center">
+<h3 align="center">
 Hi there, I'm <a href="https://github.com/mathisfr" target="_blank" rel="noreferrer">Mathis</a> 👋
-</h2>
+</h3>
 <h3 align="center">
 I am a computer development student 💻, and I also like digital design 🎨! (Blender, photoshop and other...)
 </h3> 

@@ -7,7 +7,6 @@ Hi there, I'm <a href="https://github.com/mathisfr" target="_blank" rel="norefer
 <h2 align="center">
 I am a computer development student 💻, and I also like digital design 🎨! (Blender, photoshop and other...)
 </h2> 
-<hr>
 <p>Compétences</p>
 <ul>
   <li>

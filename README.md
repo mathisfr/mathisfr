@@ -5,7 +5,7 @@
 Hi there, I'm <a href="https://github.com/mathisfr" target="_blank" rel="noreferrer">Mathis</a> 👋
 </h3>
 <h3 align="center">
-I am a computer development student 💻!
+I'm a software development student. 💻!
 </h3> 
 <hr>
 <p>Skills</p>

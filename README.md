@@ -1,2 +1,2 @@
 ![BANNER!](Profile_Banner.gif)
-<img src="Profile_Banner.gifg" alt="hi" class="inline"/>
+<img src="Profile_Banner.gif" alt="hi" class="inline"/>

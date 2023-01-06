@@ -7,7 +7,8 @@ Hi there, I'm <a href="https://github.com/mathisfr" target="_blank" rel="norefer
 <h3 align="center">
 I am a computer development student 💻, and I also like digital design 🎨! (Blender, photoshop and other...)
 </h3> 
-<p>Compétences</p>
+<hr>
+<p>Skills</p>
 <ul>
   <li>
     <a href="https://"><img src="https://img.shields.io/badge/C-00599c?logo=C&logoColor=fff" alt="C"></a>

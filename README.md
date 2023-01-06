@@ -17,6 +17,6 @@
     <a href="https://"><img src="https://img.shields.io/badge/Php-fe7d37?logo=PHP&logoColor=fff" alt="Php"></a>
   </li>
   <li>
-    <a href="https://"><img src="https://img.shields.io/badge/Html-fe7d37?logo=JS&logoColor=fff" alt="Html"></a>
+    <a href="https://"><img src="https://img.shields.io/badge/Javascript-fe7d37?logo=Javascript&logoColor=fff" alt="Javascript"></a>
   </li>
 </ul>

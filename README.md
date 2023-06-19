@@ -1,31 +1,32 @@
 <p align="center">
-<img src="Profile_Banner.gif" alt="hi" class="inline"/>
+  <img src="Profile_Banner.gif" alt="Hi" class="inline" />
 </p>
-<h3 align="center">
-Hi there, I'm <a href="https://github.com/mathisfr" target="_blank" rel="noreferrer">Mathis</a> 👋
-</h3>
-<h3 align="center">
-I'm a software development student 💻!
-</h3> 
+
+<h3 align="center">Salut, je suis <a href="https://github.com/mathisfr" target="_blank" rel="noreferrer">Mathis</a> 👋</h3>
+
+<p align="center">Étudiant en développement logiciel 💻</p>
+
 <hr>
-<p>Skills</p>
-<ul>
-  <li>
-    <a href="https://"><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=ffffffff" alt="C"></a>
-  </li>
-   <li>
-    <a href="https://"><img src="https://img.shields.io/badge/C-00599c?logo=C&logoColor=fff" alt="C=="></a>
-  </li>
-  <li>
-    <a href="https://"><img src="https://img.shields.io/badge/Html-fe7d37?logo=HTML5&logoColor=fff" alt="Html"></a>
-  </li>
-  <li>
-    <a href="https://"><img src="https://img.shields.io/badge/Css-fe7d37?logo=CSS3&logoColor=fff" alt="Css"></a>
-  </li>
-  <li>
-    <a href="https://"><img src="https://img.shields.io/badge/Php-8993be?logo=PHP&logoColor=fff" alt="Php"></a>
-  </li>
-  <li>
-    <a href="https://"><img src="https://img.shields.io/badge/Javascript-f0db4f?logo=Javascript&logoColor=fff" alt="Javascript"></a>
-  </li>
-</ul>
+
+<h4 align="center">Compétences</h4>
+
+<p align="center">
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffffff" alt="C++" />
+  </a>
+  <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C-00599c?style=for-the-badge&logo=C&logoColor=fff" alt="C" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML-fe7d37?style=for-the-badge&logo=HTML5&logoColor=fff" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS-fe7d37?style=for-the-badge&logo=CSS3&logoColor=fff" alt="CSS" />
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=PHP&logoColor=fff" alt="PHP" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=Javascript&logoColor=fff" alt="JavaScript" />
+  </a>
+</p>

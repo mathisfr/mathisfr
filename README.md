@@ -11,7 +11,10 @@ I'm a software development student 💻!
 <p>Skills</p>
 <ul>
   <li>
-    <a href="https://"><img src="https://img.shields.io/badge/C-00599c?logo=C&logoColor=fff" alt="C"></a>
+    <a href="https://"><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=ffffffff" alt="C"></a>
+  </li>
+   <li>
+    <a href="https://"><img src="https://img.shields.io/badge/C-00599c?logo=C&logoColor=fff" alt="C=="></a>
   </li>
   <li>
     <a href="https://"><img src="https://img.shields.io/badge/Html-fe7d37?logo=HTML5&logoColor=fff" alt="Html"></a>

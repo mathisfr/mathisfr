@@ -4,7 +4,7 @@
 
 <h3 align="center">Salut, je suis <a href="https://github.com/mathisfr" target="_blank" rel="noreferrer">Mathis</a> 👋</h3>
 
-<p align="center">Étudiant en développement logiciel 💻</p>
+<p align="center">Je me forme au développement logiciel 💻</p>
 
 <hr>
 

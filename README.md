@@ -23,10 +23,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/CSS-fe7d37?style=for-the-badge&logo=CSS3&logoColor=fff" alt="CSS" />
   </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=PHP&logoColor=fff" alt="PHP" />
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=Javascript&logoColor=fff" alt="JavaScript" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.codewars.com/users/matfrcs">
+    <img src="https://www.codewars.com/users/matfrcs/badges/large"/>
   </a>
 </p>

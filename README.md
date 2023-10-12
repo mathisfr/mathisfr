@@ -27,8 +27,3 @@
     <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=Javascript&logoColor=fff" alt="JavaScript" />
   </a>
 </p>
-<p align="center">
-  <a href="https://www.codewars.com/users/matfrcs">
-    <img src="https://www.codewars.com/users/matfrcs/badges/large"/>
-  </a>
-</p>
